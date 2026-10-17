@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Shiran Madhushanka 👋
 
-<!--
-**ShiranMadhushanka/ShiranMadhushanka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Software Engineer with 7+ years of experience building 
+production web applications.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- **Backend:** PHP 8, Laravel, CodeIgniter, REST APIs
+- **Frontend:** Vue.js, React.js, Angular, TypeScript
+- **Databases:** MySQL, MongoDB, IndexedDB
+- **Tools:** Git, Postman, Agile/Scrum
+- **AI-Assisted Dev:** Claude AI for daily development workflow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 What I Build
+- Payment gateway middleware and integrations
+- Offline-first POS systems
+- Enterprise web platforms
+- RESTful API architectures
+
+### 📫 Contact
+- LinkedIn: linkedin.com/in/shiran-madhushanka-a70283170
+- Email: madushankaindika5@gmail.com
